@@ -7,7 +7,7 @@
 - 📫 Meu e-mail é naara.adv@gmail.com
 
 <div>
- - ⚡ Tenologias:
+ - ⚡ Tecnologias:
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="LogoJava-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
