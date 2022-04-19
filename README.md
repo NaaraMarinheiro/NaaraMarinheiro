@@ -3,7 +3,7 @@
 - 💬 Sou desenvolvedora Full Stack com experiência em negócios e na área jurídica
 - 🔭 Hoje estudo Programação Full Stack na Digital House
 - 🌱 Estou aprendendo Java, Angular e Python para Dados
-- 👯 Estou disposta a coloborar em Projetos de engenharia jurídica, da área financeira e consumo cosciente
+- 👯 Estou disposta a coloborar em Projetos de engenharia jurídica, da área financeira e consumo consciente
 - 📫 Meu e-mail é naara.adv@gmail.com
 
 <div>
