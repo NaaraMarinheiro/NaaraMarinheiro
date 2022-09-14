@@ -1,6 +1,6 @@
 ### Olá, meu nome é Naara Marinheiro! 😄
 
-- 💬 Sou desenvolvedora Front-end com experiência em negócios e na área jurídica
+- 💬 Sou desenvolvedora web com experiência em negócios e na área jurídica
 - 🔭 Tenho formação Full Stack na Digital House em Java/Angular
 - 🌱 Estou aprendendo React, Angular, Typescript, HTML e CSS.
 - 👯 Estou disposta a colaborar em projetos com impacto social
