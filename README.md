@@ -1,8 +1,8 @@
 ### Olá, meu nome é Naara Marinheiro! 😄
 
-- 💬 Sou desenvolvedora web com experiência em negócios e na área jurídica
-- 🔭 Tenho formação Full Stack na Digital House em Java/Angular
-- 🌱 Estou aprendendo React, Angular, Typescript, HTML e CSS.
+- 💬 Sou desenvolvedora web e faço graduação em Análise e Desenvolvimento de Sistemas
+- 🔭 Tenho formação Full Stack na Digital House em Java/Angular 
+- 🌱 Estou aprendendo Java, Typescript, Angular, React, HTML e CSS.
 - 👯 Estou disposta a colaborar em projetos com impacto social
 - 📫 Meu e-mail é naara.adv@gmail.com
 
